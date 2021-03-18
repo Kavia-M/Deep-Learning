@@ -100,7 +100,7 @@ model.fit(training_images, training_labels, epochs=7)
 print(model.evaluate(test_images,test_labels))
 
 
-# Accuracy 07.85%
+# Accuracy 97.85%
 
 # ### Visualizing our prediction using some sample test images
 
