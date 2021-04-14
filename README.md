@@ -1,2 +1,2 @@
-# Deep-Learning assignment-1
-This repository consists of my 1st assignment in deep learning... Anaconda environment setup in local machine and image classification
+# Deep-Learning
+This repository consists of all my works done as a part of CS6005 Deep Learning Techniques
